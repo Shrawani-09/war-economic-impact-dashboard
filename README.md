@@ -1,5 +1,5 @@
 
-# 📊 War Economic Impact Dashboard
+# 🌍 Global War Impact Analysis Dashboard
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Dashboard
