@@ -1,5 +1,19 @@
 
 # 📊 War Economic Impact Dashboard
+## 📸 Dashboard Preview
+
+### 🔹 Overview Dashboard
+
+![Overview](images/page1.png)
+
+### 🔹 Economic Indicators Analysis
+
+![Analysis](images/page2.png)
+
+### 🔹 Global Impact & Insights
+
+![Insights](images/page3.png)
+
 
 ## 🔍 Overview
 
