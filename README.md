@@ -1,5 +1,6 @@
 
 # 🌍 Global War Impact Analysis Dashboard
+A data-driven analysis of how war disrupts global economic stability across GDP, inflation, and employment.
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Dashboard
@@ -25,7 +26,10 @@ This project analyzes the economic impact of war across countries using key macr
 
 To evaluate how war disrupts economic stability and identify patterns across countries and economic indicators.
 
+## ❗ Why This Matters
+War impacts economies beyond borders — understanding these effects helps policymakers, businesses, and analysts anticipate economic instability and make informed decisions.
 ---
+
 
 ## 🛠 Tools & Technologies
 
@@ -43,6 +47,8 @@ To evaluate how war disrupts economic stability and identify patterns across cou
 * Unemployment rises due to **economic instability**
 * Economic indicators are **highly interconnected**
 * Severe impact observed in highly conflict-affected regions
+  ## 🧠 Key Takeaway
+War creates a cascading economic effect — declining GDP, rising inflation, and increasing unemployment — forming a compounded economic crisis.
 
 ---
 
